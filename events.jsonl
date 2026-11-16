@@ -1,0 +1,6 @@
+{"event_id":"e1","payment_id":"p1","state":"authorized","version":1,"amount_cents":2500}
+{"event_id":"e2","payment_id":"p1","state":"settled","version":2,"amount_cents":2500}
+{"event_id":"e2","payment_id":"p1","state":"settled","version":2,"amount_cents":2500}
+{"event_id":"e3","payment_id":"p1","state":"authorized","version":1,"amount_cents":2500}
+{"event_id":"e4","payment_id":"p2","state":"authorized","version":1,"amount_cents":500}
+{"event_id":"e5","payment_id":"p3","state":"settled","version":1,"amount_cents":-50}
